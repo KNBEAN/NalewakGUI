@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\Users\\Maciek\\AndroidStudioProjects\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Maciek\\.android\\build-cache\\c4d7be2855aa734c054e7515b4a3005f5a5b8655\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciek\\AndroidStudioProjects\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Maciek\\.android\\build-cache\\c4d7be2855aa734c054e7515b4a3005f5a5b8655\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciek\\AndroidStudioProjects\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Maciek\\.android\\build-cache\\c4d7be2855aa734c054e7515b4a3005f5a5b8655\\output\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciek\\AndroidStudioProjects\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Maciek\\.android\\build-cache\\c4d7be2855aa734c054e7515b4a3005f5a5b8655\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\swiec\\Downloads\\SeekArc_sample\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\swiec\\.android\\build-cache\\8db66609b9b7aee89d5552457d6653a96efd65f8\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciek\\AndroidStudioProjects\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Maciek\\.android\\build-cache\\c4d7be2855aa734c054e7515b4a3005f5a5b8655\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\swiec\\Downloads\\SeekArc_sample\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\swiec\\.android\\build-cache\\8db66609b9b7aee89d5552457d6653a96efd65f8\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciek\\AndroidStudioProjects\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Maciek\\.android\\build-cache\\c4d7be2855aa734c054e7515b4a3005f5a5b8655\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\swiec\\Downloads\\SeekArc_sample\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\swiec\\.android\\build-cache\\8db66609b9b7aee89d5552457d6653a96efd65f8\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\swiec\\Downloads\\SeekArc_sample\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\swiec\\.android\\build-cache\\8db66609b9b7aee89d5552457d6653a96efd65f8\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\swiec\\Downloads\\SeekArc_sample\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\swiec\\.android\\build-cache\\8db66609b9b7aee89d5552457d6653a96efd65f8\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\swiec\\Downloads\\SeekArc_sample\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\swiec\\.android\\build-cache\\8db66609b9b7aee89d5552457d6653a96efd65f8\\output\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\swiec\\Downloads\\SeekArc_sample\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\swiec\\.android\\build-cache\\8db66609b9b7aee89d5552457d6653a96efd65f8\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\swiec\\Downloads\\SeekArc_sample\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\swiec\\.android\\build-cache\\8db66609b9b7aee89d5552457d6653a96efd65f8\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\swiec\\Downloads\\SeekArc_sample\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\swiec\\.android\\build-cache\\8db66609b9b7aee89d5552457d6653a96efd65f8\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\swiec\\Downloads\\SeekArc_sample\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\swiec\\.android\\build-cache\\8db66609b9b7aee89d5552457d6653a96efd65f8\\output\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciek\\AndroidStudioProjects\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Maciek\\.android\\build-cache\\c4d7be2855aa734c054e7515b4a3005f5a5b8655\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\swiec\\Downloads\\SeekArc_sample\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\swiec\\.android\\build-cache\\8db66609b9b7aee89d5552457d6653a96efd65f8\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciek\\AndroidStudioProjects\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Maciek\\.android\\build-cache\\c4d7be2855aa734c054e7515b4a3005f5a5b8655\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciek\\AndroidStudioProjects\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Maciek\\.android\\build-cache\\c4d7be2855aa734c054e7515b4a3005f5a5b8655\\output\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciek\\AndroidStudioProjects\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Maciek\\.android\\build-cache\\c4d7be2855aa734c054e7515b4a3005f5a5b8655\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciek\\AndroidStudioProjects\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Maciek\\.android\\build-cache\\c4d7be2855aa734c054e7515b4a3005f5a5b8655\\output\\res\\color\\switch_thumb_material_dark.xml"
+    }
+]

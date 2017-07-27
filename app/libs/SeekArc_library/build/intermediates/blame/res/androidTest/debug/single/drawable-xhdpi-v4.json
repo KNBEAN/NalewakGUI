@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\swiec\\Downloads\\SeekArc_sample\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\scrubber_control_normal_holo.png",
+        "source": "C:\\Users\\swiec\\Downloads\\SeekArc_sample\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\scrubber_control_normal_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\swiec\\Downloads\\SeekArc_sample\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\scrubber_control_focused_holo.png",
+        "source": "C:\\Users\\swiec\\Downloads\\SeekArc_sample\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\scrubber_control_focused_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\Maciek\\AndroidStudioProjects\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\scrubber_control_disabled_holo.png",
+        "source": "C:\\Users\\Maciek\\AndroidStudioProjects\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\scrubber_control_disabled_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\swiec\\Downloads\\SeekArc_sample\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\scrubber_control_disabled_holo.png",
+        "source": "C:\\Users\\swiec\\Downloads\\SeekArc_sample\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\scrubber_control_disabled_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\Maciek\\AndroidStudioProjects\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\scrubber_control_normal_holo.png",
+        "source": "C:\\Users\\Maciek\\AndroidStudioProjects\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\scrubber_control_normal_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\Maciek\\AndroidStudioProjects\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\scrubber_control_pressed_holo.png",
+        "source": "C:\\Users\\Maciek\\AndroidStudioProjects\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\scrubber_control_pressed_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\Maciek\\AndroidStudioProjects\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\scrubber_control_focused_holo.png",
+        "source": "C:\\Users\\Maciek\\AndroidStudioProjects\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\scrubber_control_focused_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\Maciek\\AndroidStudioProjects\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Maciek\\AndroidStudioProjects\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\swiec\\Downloads\\SeekArc_sample\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\scrubber_control_pressed_holo.png",
+        "source": "C:\\Users\\swiec\\Downloads\\SeekArc_sample\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\scrubber_control_pressed_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\swiec\\Downloads\\SeekArc_sample\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\swiec\\Downloads\\SeekArc_sample\\SeekArc_sample\\SeekArc_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    }
+]
